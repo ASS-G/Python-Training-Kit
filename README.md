@@ -12,9 +12,9 @@
 ## Index
   1. [**Why is Python Awesome?**](#why-is-python-awesome)
   2. [**Getting Started**](#getting-started)
-	  2.1. [**Python interpreter**](#python-interpreter)
-	  2.2. [**Run Python code**](#run-python-code)
-	  2.3. [**Python IDE**](#python-ide)
+	  1. [**Python interpreter**](#python-interpreter)
+	  2. [**Run Python code**](#run-python-code)
+	  3. [**Python IDE**](#python-ide)
 
 
 
