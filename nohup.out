@@ -1,0 +1,44 @@
+[I 21:00:12.855 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:00:12.855 NotebookApp] The port 8889 is already in use, trying another port.
+[I 21:00:12.856 NotebookApp] The port 8890 is already in use, trying another port.
+[I 21:00:12.856 NotebookApp] The port 8891 is already in use, trying another port.
+[I 21:00:12.856 NotebookApp] The port 8892 is already in use, trying another port.
+[I 21:00:12.864 NotebookApp] Serving notebooks from local directory: /home/shriram/Desktop/Python-Training-Kit
+[I 21:00:12.864 NotebookApp] The Jupyter Notebook is running at:
+[I 21:00:12.864 NotebookApp] http://localhost:8917/?token=cc47d1badc77d9b520d0ad4f5aa7b9a54ec34f3a898f76f9
+[I 21:00:12.864 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:00:12.869 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/shriram/.local/share/jupyter/runtime/nbserver-19428-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8917/?token=cc47d1badc77d9b520d0ad4f5aa7b9a54ec34f3a898f76f9
+[W 21:00:23.085 NotebookApp] Notebook notebook/Python_Basics_and_Strings.ipynb is not trusted
+[I 21:00:24.284 NotebookApp] Kernel started: b842f8db-9990-4702-b1e2-e0a11480b66f
+[I 21:02:24.291 NotebookApp] Saving file at /notebook/Python_Basics_and_Strings.ipynb
+[W 21:02:24.292 NotebookApp] Notebook notebook/Python_Basics_and_Strings.ipynb is not trusted
+[I 21:04:24.292 NotebookApp] Saving file at /notebook/Python_Basics_and_Strings.ipynb
+[W 21:04:24.293 NotebookApp] Notebook notebook/Python_Basics_and_Strings.ipynb is not trusted
+[I 21:06:04.221 NotebookApp] Saving file at /notebook/Python_Basics_and_Strings.ipynb
+[W 21:06:04.223 NotebookApp] Notebook notebook/Python_Basics_and_Strings.ipynb is not trusted
+[I 21:06:06.509 NotebookApp] Starting buffering for b842f8db-9990-4702-b1e2-e0a11480b66f:62aa50c0d5bf4d60bf541fec1636b89c
+[W 21:06:14.645 NotebookApp] Notebook notebook/Python_Lists.ipynb is not trusted
+[I 21:06:16.382 NotebookApp] Kernel started: 79931f59-c774-4309-9ac0-780570942a37
+[I 21:08:16.408 NotebookApp] Saving file at /notebook/Python_Lists.ipynb
+[W 21:08:16.411 NotebookApp] Notebook notebook/Python_Lists.ipynb is not trusted
+[I 21:09:46.561 NotebookApp] Saving file at /notebook/Python_Lists.ipynb
+[W 21:09:46.566 NotebookApp] Notebook notebook/Python_Lists.ipynb is not trusted
+[I 21:09:47.950 NotebookApp] Starting buffering for 79931f59-c774-4309-9ac0-780570942a37:66cb340405224408879978125ff7c79b
+[W 21:09:51.158 NotebookApp] Notebook notebook/Python_Dictionaries_and_Files.ipynb is not trusted
+[I 21:09:52.296 NotebookApp] Kernel started: 82ae8bb0-7342-4ce7-9c57-fb64c2adda55
+[I 21:10:00.794 NotebookApp] Saving file at /notebook/Python_Dictionaries_and_Files.ipynb
+[W 21:10:00.795 NotebookApp] Notebook notebook/Python_Dictionaries_and_Files.ipynb is not trusted
+[I 21:10:02.116 NotebookApp] Starting buffering for 82ae8bb0-7342-4ce7-9c57-fb64c2adda55:d7ce0afdb0234cb78353a4aeb6090050
+[W 21:10:05.339 NotebookApp] Notebook notebook/Advanced_Topics_in_Python.ipynb is not trusted
+[I 21:10:07.331 NotebookApp] Kernel started: 37330d3d-ccb4-4f83-b2d2-e74de8c75e41
+[I 21:10:54.467 NotebookApp] Saving file at /notebook/Advanced_Topics_in_Python.ipynb
+[I 21:10:55.836 NotebookApp] Starting buffering for 37330d3d-ccb4-4f83-b2d2-e74de8c75e41:13c55a51feea40cc8cb5d6053bf8eee2
+[W 21:11:00.243 NotebookApp] Notebook notebook/Python_Basics_and_Strings.ipynb is not trusted
+[I 21:12:28.085 NotebookApp] Saving file at /notebook/Python_Basics_and_Strings.ipynb
+[W 21:12:28.137 NotebookApp] Notebook notebook/Python_Basics_and_Strings.ipynb is not trusted
+[I 21:12:29.408 NotebookApp] Starting buffering for b842f8db-9990-4702-b1e2-e0a11480b66f:d0e983fbf7c44a97a103543aa63e6559
