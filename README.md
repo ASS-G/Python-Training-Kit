@@ -53,7 +53,7 @@ If you are new to programming, start with running Python code. To run the code, 
 
 An IDE is a development environment. If you don’t want to work from the terminal, you can use an IDE. This is a graphical editor in which you can type code, work with multiple files, run code amongst other things. For starters, we recommend starting from notepad and moving on to an advanced IDE like PyCharm.
 
-[![pycharm python ide](https://pythonbasics.org/wp-content/uploads/2017/10/ide.png)]#)
+[![pycharm python ide](https://pythonbasics.org/wp-content/uploads/2017/10/ide.png)]
 
 In the PyCharm IDE above you see 
 1) File menu
